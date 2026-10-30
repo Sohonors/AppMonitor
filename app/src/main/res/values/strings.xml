@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Monitor</string>
+    <string name="title_header">Aplikasi Aktif &amp; Pemakaian RAM</string>
+    <string name="subtitle_header">Diurutkan dari yang paling sering/lama aktif di background</string>
+    <string name="btn_usage_access">Aktifkan Izin Usage Access</string>
+    <string name="btn_refresh">Refresh</string>
+    <string name="ram_info_format">RAM terpakai: %1$s / %2$s (%3$d%%)</string>
+    <string name="usage_access_needed">Izin "Usage Access" belum aktif.\n\nTekan tombol di bawah, lalu cari "App Monitor" di daftar, dan aktifkan.</string>
+    <string name="open_app_info">Buka Info Aplikasi</string>
+    <string name="force_stop_hint">Tekan sebuah aplikasi untuk membuka halaman Info Aplikasi, lalu tekan "Paksa Berhenti" (Force Stop) atau atur "Pembatasan Baterai" di sana.</string>
+</resources>
