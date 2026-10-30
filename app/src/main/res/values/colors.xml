@@ -1,0 +1,11 @@
+<resources>
+    <color name="purple_700">#3700B3</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="background">#F5F5F7</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#1C1C1E</color>
+    <color name="text_secondary">#6E6E73</color>
+    <color name="warn">#D32F2F</color>
+    <color name="ok">#2E7D32</color>
+</resources>
